@@ -33,7 +33,7 @@ After School: Monday, Tuesday, & Thursday
 
 If you need other accommodations, please see your instructor to make an appointment.
 
-![alt text](../images/compsci2.jpg "CC 2.0: Generic | Cropped  | Kim Burgess")
+![alt text](compsci2.jpg "CC 2.0: Generic | Cropped  | Kim Burgess")
 
 
 
