@@ -75,7 +75,7 @@ All forms of academic dishonesty and cheating are taken seriously. Some forms of
  
 Many students are under the belief that if it is for education, copyright and intellectual property laws don't apply. This is not the case. Many companies choose not to file charges when copyright or intellectual property laws are violated for educational use; some companies do, and this doesn't mean they can't choose to at a later point in time. Use of others' works within your own work, without proper documentation can result in loss of credit. However, use of copyrighted material can also result in legal issues in addition to any academic woes.
 
-![alt text](exy.png "No") I understand
+![alt text](checky.png "Yes") I understand
 
 ##### Collaboration vs Collusion:
 All forms of academic dishonesty and cheating are taken seriously. Some forms of cheating and academic dishonesty are more self-explanatory than others. The form of academic dishonesty that seems to confuse students is collusion. Collusion is providing or receiving unauthorized aid or assistance. What is or isn't authorized can vary from course to course, so it is important that you communicate with, and understand the expectations of, your instructor.
