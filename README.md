@@ -5,4 +5,4 @@ Typing and writing and reading. That is what I'm doing right now.
 
 [Course Description](https://connnnnnor.github.io/CS-2/Course%20Description)
 
-[People of Interest](https://connnnnnor.github.io/CS-2/blob/master/new.md)
+[People of Interest](https://connnnnnor.github.io/CS-2/master/new.md)
